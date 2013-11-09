@@ -1,1 +1,1 @@
-Search.setIndex({objects:{},terms:{sitemap:0},objtypes:{},titles:["Sitemap"],objnames:{},filenames:["master"]})
+Search.setIndex({objects:{},terms:{about:[0,1],sitemap:1},objtypes:{},titles:["About","Sitemap"],objnames:{},filenames:["pages/about","master"]})
