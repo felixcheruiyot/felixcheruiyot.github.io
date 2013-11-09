@@ -30,7 +30,7 @@ website = 'http://felixcheruiyot.github.io/blog/html/'
 # **************************************************************
 
 # Add your Disqus shortname to enable comments powered by Disqus
-disqus_shortname = felixcheruiyot
+disqus_shortname = 'felixcheruiyot'
 
 # Change your favicon (new favicon goes in _static directory)
 html_favicon = 'tinkerer.ico'
