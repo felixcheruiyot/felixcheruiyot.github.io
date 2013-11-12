@@ -1,1 +1,1 @@
-Search.setIndex({objects:{},terms:{about:[2,1],remember:[0,1],thi:[0,1],sitemap:1},objtypes:{},titles:["Do this in rememberance of me","Sitemap","About"],objnames:{},filenames:["2013/11/09/do_this_in_rememberance_of_me","master","pages/about"]})
+Search.setIndex({objects:{},terms:{remember:[0,1],text:0,some:0,thi:[0,1],div:0,sitemap:1,more:0},objtypes:{},titles:["Do this in rememberance of me","Sitemap"],objnames:{},filenames:["2013/11/09/do_this_in_rememberance_of_me","master"]})
